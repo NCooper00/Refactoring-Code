@@ -119,7 +119,7 @@ p {
     max-height: 200px;
 }
 
-/* Effects the space below the <h2> tags in the <main> element of the html code as well as their font-size.  */
+/* Effects the space below the <h2> tags in the <main> element of the html code, as well as their font-size.  */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
