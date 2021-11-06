@@ -2,9 +2,11 @@
 Refactor existing code to improve it's accessibility without changing what it does.
 
 
+
 ## Semantic HTML
 
-Went through the html code and added semantic html elements so that the code is easier to understand.
+I went through the html code and added semantic html elements so that the code is easier to understand.
+
 
 
 ## CSS Optimization
@@ -21,4 +23,13 @@ I then went through the css and optimized any section that had the same effects 
 
 >*line 123:* [.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2]
 
+
+
+## QOL in CSS
+
+I added comments above the code I changed to describe it's function in the css.
+
+
+
+### Screenshot of webpage
 ![Horiseon](https://user-images.githubusercontent.com/92492572/140593448-5625fb1a-8d8b-4f66-97a3-f26e74ff3751.png)
