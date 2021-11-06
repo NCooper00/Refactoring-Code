@@ -25,9 +25,11 @@ I then went through the css and optimized any section that had the same effects 
 
 
 
-## QOL in CSS
+## QOL in CSS and HTML
 
-I added comments above the code I changed to describe it's function in the css.
+I added comments throughout the css explaining what the different sections are for and I put specific comments above each of the portions that I edited to be more optimized.
+
+I added comments throughout the different sections of html code to explain what the section is and what it contains.
 
 
 

@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* Effects the background color around the <main> section of webpage. */
 body {
     background-color: #d9dcd6;
 }
-
+/* This section of the css effects how the header appears and how it's positioned. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +40,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Effects the text style and color of the links in the top right of the webpage. */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Effects the font-size of the paragraphs. */
 p {
     font-size: 16px;
 }
-
+/* Effects the main image at the top of the webpage. */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* The next two .float lines effect where the images in the <main> section of the webpage are positioned. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Effects where the <main> section of the webpage is positioned. */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Effects the benefits section of the html inside the <aside> section of the html. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,7 +124,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This section of the css effects where teh footer appears and how it's positioned. */
 .footer {
     padding: 30px;
     clear: both;
